@@ -1,6 +1,6 @@
 @font-face {
   font-family: "digital-clock-font";
-  src: url("../FONTS/Technology.ttf");
+  src: url("FONTS/Technology.ttf");
 }
 :root {
   --color2: #e6e6e6;
